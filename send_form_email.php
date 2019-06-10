@@ -13,10 +13,10 @@
 
   			   $to = "crahul@planexsolution.com";
 
-		         $subject = "This is subject";
+// 		         $subject = "This is subject";
 		         
-		         $message = "<b>This is HTML message.</b>";
-		         $message .= "<h1>This is headline.</h1>";
+// 		         $message = "<b>This is HTML message.</b>";
+// 		         $message .= "<h1>This is headline.</h1>";
 		         
 		         $header = "From:sharshdeep@planexsolution.com \r\n";
 		         $header .= "Cc:crahul@planexsolution.com \r\n";
